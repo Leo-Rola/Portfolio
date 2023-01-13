@@ -11,26 +11,26 @@ function App() {
 	const FigmaLink = "https://www.figma.com";
 	const GitLink = "https://github.com";
 	const LinkedinLink = "https://linkedin.com";
-	const mail = "elias@example.com";
+	const mail = "leorola998@gmail.com";
 
 	const sections = ["home", "skills", "progetti", "about", "contatti"];
 
-	const frontendSkills = ["Javascript", "Typescript", "React"];
+	const frontendSkills = ["Javascript", "React"];
 	const backendSkills = ["Node JS"];
-	const toolsSkills = ["GitHub", "Figma"];
+	const toolsSkills = ["GitHub",];
 
 	//Hero Props
-	const name = "Elias";
-	const surname = "Surname";
+	const name = "Leonardo";
+	const surname = "Rolandi";
 	const subtitle =
 		"He crafts responsive websites where technologies meet creativity";
 	const workingOn = "Portfolio";
 
 	//About Props
 	const firstParagraph =
-		"I’m a self-taught front-end developer based in Kyiv, Ukraine. I candevelop responsive websites from scratch and raise them into moder user-friendly web experiences.";
+		"Work in progress";
 	const secondParagraph =
-		"Transforming my creativity and knowledge into a websites has been my passion for over a year. I have been helping various clients to establish their presence online. I always strive to learn about the newest technologies and frameworks.";
+		"WIP";
 
 	return (
 		<div className="w-full">
